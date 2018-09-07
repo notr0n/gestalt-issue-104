@@ -5,6 +5,11 @@ import 'gestalt/dist/gestalt.css';
 export default class Book extends Component {
   render() {
     return (
+      {/*
+          <main> for background-img in css and <div> for some frosted glass effect (sth like border that contains 
+          Your Componet
+          
+      */}
       <main>
         <div>
           <StaticBorder />
