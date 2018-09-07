@@ -12,7 +12,6 @@ export default class Book extends Component {
       */}
       <main>
         <div>
-          <StaticBorder />
           <Box alignItems="center" display="flex" >
               <Example />
         </Box>
